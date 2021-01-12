@@ -32,12 +32,12 @@
     ],
     "autoload": {
       "psr-4": {
-        "Rickycezar\\Impersonate\\": "src/"
+        "sergyu91ma\\Impersonate\\": "src/"
       }
     },
     "autoload-dev": {
       "psr-4": {
-        "Rickycezar\\Tests\\": "tests/"
+        "sergyu91ma\\Tests\\": "tests/"
       }
     },
     "minimum-stability": "dev",
