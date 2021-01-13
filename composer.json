@@ -33,17 +33,17 @@
     ],
     "autoload": {
       "psr-4": {
-        "rickycezar\\Impersonate\\": "src/"
+        "Rickycezar\\Impersonate\\": "src/"
       }
     },
     "autoload-dev": {
       "psr-4": {
-        "rickycezar\\Tests\\": "tests/"
+        "Rickycezar\\Tests\\": "tests/"
       }
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
-        "installer-name": "mina"
+        "installer-name": "Rickycezar"
     }
 }
