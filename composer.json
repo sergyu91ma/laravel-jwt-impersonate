@@ -16,8 +16,7 @@
     "require": {
       "php": "^7.1.3 || ^8.0",
       "laravel/framework": ">=5.8",
-      "tymon/jwt-auth": "*",
-       "composer/installers": "~1.0"
+      "tymon/jwt-auth": "*"        
     },
     "require-dev": {
       "phpunit/phpunit": "^7.5 || ^8.0",
