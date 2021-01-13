@@ -42,8 +42,5 @@
       }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
-    "extra": {
-        "installer-name": "Rickycezar"
-    }
+    "prefer-stable": true
 }
